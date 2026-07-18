@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "atlas": "dark-fantasy-sprite-atlas.png",
+  "frameSize": [256, 256],
+  "columns": 4,
+  "license": "Original project asset generated for d2-sorceress-arpg; no third-party trademarks.",
+  "frames": {
+    "sorceress": 0,
+    "healer": 1,
+    "merchant": 2,
+    "blacksmith": 3,
+    "bog_imp": 4,
+    "bone_gnasher": 5,
+    "skeleton_warrior": 6,
+    "ghoul": 7,
+    "skeleton_archer": 8,
+    "venom_spider": 9,
+    "thorn_treant": 10,
+    "vampire_bat": 11,
+    "flame_hound": 12,
+    "searing_wraith": 13,
+    "storm_knight": 14,
+    "chaos_lord": 15
+  }
+}
