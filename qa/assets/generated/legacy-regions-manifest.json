@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "atlas": "legacy-regions-sprite-atlas.png",
+  "frameSize": [256, 256],
+  "columns": 4,
+  "license": "Original project asset generated for d2-sorceress-arpg; no third-party trademarks.",
+  "frames": {
+    "skeleton_warrior": 0,
+    "ghoul": 1,
+    "skeleton_archer": 2,
+    "venom_spider": 3,
+    "thorn_treant": 4,
+    "vampire_bat": 5,
+    "flame_hound": 6,
+    "searing_wraith": 7,
+    "storm_knight": 8,
+    "chaos_lord": 9
+  }
+}
