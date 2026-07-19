@@ -1,0 +1,1 @@
+import{a as r}from"./catalogSchema-C0joijEM.js";import"./index-hTKBQlyF.js";import"./phaser-Bqk3iDYt.js";function l(t){const a=r.safeParse(t);return a.success?a.data:null}export{l as validateG6aCatalog};
